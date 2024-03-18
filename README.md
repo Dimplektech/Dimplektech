@@ -1,4 +1,5 @@
-### Hello I'M Dimpal 👋
+### Hello I'M Dimple 👋
+ 🌱 I’m currently learning Python.
 
 <!--
 **Dimplektech/Dimplektech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
