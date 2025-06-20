@@ -5,7 +5,9 @@
   ### 🛠️ Languages and Tools:
   HTML, CSS, JavaScript, React, Node.js, Python, Git, VSCode...
 
-  - 🔭 I’m currently working on: [Brews-Bites-Cafe](https://github.com/Dimplektech/Brews-Bites-Cafe)
+  -  [📌WonderOasis ThemePark](https://dimplektech.github.io/WonderOasis-ThemePark/)
+  -  [📌Brews-Bites-Cafe](https://github.com/Dimplektech/Brews-Bites-Cafe)
+  -  [📌CyberVerify](https://cyberverify-56a09187d970.herokuapp.com/)
 
 
 
